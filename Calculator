@@ -1,2 +1,7 @@
 cout<<"My name is:"Subhan Altaf";
 cout<<"Roll no is:"ST-018";
+int a;
+int b;
+int div;
+div=a/b;
+cout<<div;
