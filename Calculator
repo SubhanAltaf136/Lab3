@@ -1,2 +1,6 @@
 cout<<"My name is:"Subhan Altaf";
 cout<<"Roll no is:"ST-018";
+int a;
+int b;
+int multiply;
+int=a*b;
